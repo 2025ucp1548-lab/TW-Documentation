@@ -105,3 +105,4 @@ Numbered list:
 ## 8. Conclusion
 
 LaTeX is a powerful tool for preparing structured and professionally formatted technical documents.
+Documentation updated with additional LaTeX examples.
